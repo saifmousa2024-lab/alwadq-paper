@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8" />
@@ -9,7 +8,6 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
   <header class="nav">
     <div class="container">
       <div class="navbar">
@@ -20,9 +18,7 @@
             <span>Babel, Iraq</span>
           </span>
         </a>
-
         <button id="menuBtn" class="btn menu-btn" type="button">Menu</button>
-
         <nav id="navLinks" class="links" aria-label="Navigation">
           <a class="link" data-nav href="index.html">Home</a>
           <a class="link" data-nav href="about.html">About</a>
@@ -31,7 +27,6 @@
           <a class="link" data-nav href="auth.html">Account</a>
           <a class="link" data-nav href="visualizer.html">Visualizer</a>
         </nav>
-
         <div class="nav-actions">
           <div id="sessionSlot"></div>
           <a class="btn primary" href="contact.html">Request a Quote</a>
@@ -39,7 +34,6 @@
       </div>
     </div>
   </header>
-
   <main id="main">
     <section class="section">
       <div class="container hero">
@@ -47,14 +41,11 @@
           <span class="badge">Wallpaper manufacturer — quality and modern designs</span>
           <h1>Al-Wadaq Wallpaper Manufacturing Co. Ltd</h1>
           <p>We manufacture high-quality wallpapers with multiple materials and finishes for residential and commercial projects.</p>
-
           <div class="actions">
             <a class="btn primary" href="products.html">View Products</a>
             <a class="btn" href="contact.html">Request a Quote</a>
           </div>
-
           <div class="hr"></div>
-
           <div class="kpis">
             <div class="kpi"><strong>Multiple designs</strong><span>—</span></div>
             <div class="kpi"><strong>Materials & finishes</strong><span>—</span></div>
@@ -62,7 +53,6 @@
             <div class="kpi"><strong>Quality control</strong><span>—</span></div>
           </div>
         </div>
-
         <div class="hero-art">
           <h2 style="margin-top:0;">Why Al-Wadaq?</h2>
 
@@ -80,9 +70,7 @@
               <div class="small">Order management and delivery scheduling for projects.</div>
             </div>
           </div>
-
           <div class="hr"></div>
-
           <div class="notice">
             <div><strong>Address</strong>: Babel, Iraq</div>
             <div style="margin-top:6px;"><strong>Phone</strong>: 9647811100000</div>
@@ -91,7 +79,6 @@
         </div>
       </div>
     </section>
-
     <section class="section" style="padding-top:0;">
       <div class="container grid two" style="align-items:stretch;">
         <div class="card">
@@ -103,7 +90,6 @@
             <li>Wholesale pricing for distributors and contractors.</li>
           </ul>
         </div>
-
         <div class="card">
           <h2 style="margin-top:0;">Quick Links</h2>
           <div style="display:flex;gap:12px;flex-wrap:wrap;">
@@ -114,7 +100,6 @@
         </div>
       </div>
     </section>
-
     <section class="section" style="padding-top:0;">
       <div class="container grid two" style="align-items:start;">
         <div class="card">
@@ -123,7 +108,6 @@
           <div class="hr"></div>
           <a class="btn primary" href="visualizer.html">Open Visualizer</a>
         </div>
-
         <div class="card">
           <h2 style="margin-top:0;">Contact</h2>
           <div class="notice">
@@ -145,7 +129,6 @@
           </div>
           <div class="small">Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq</div>
         </div>
-
         <div class="small">
           <div>Phone: 9647811100000</div>
           <div>Email: info@alwadaq-wallpaper.com</div>
@@ -154,7 +137,6 @@
       </div>
     </div>
   </footer>
-
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script type="module" src="assets/js/main.js"></script>
 </body>
@@ -170,7 +152,6 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
   <header class="nav">
     <div class="container">
       <div class="navbar">
@@ -178,9 +159,7 @@
           <img src="assets/img/logo.svg" alt="Al-Wadaq logo" />
           <span class="brand-text"><strong>Al-Wadaq</strong><span>Babel, Iraq</span></span>
         </a>
-
         <button id="menuBtn" class="btn menu-btn" type="button">Menu</button>
-
         <nav id="navLinks" class="links" aria-label="Navigation">
           <a class="link" data-nav href="index.html">Home</a>
           <a class="link" data-nav href="about.html">About</a>
@@ -189,7 +168,6 @@
           <a class="link" data-nav href="auth.html">Account</a>
           <a class="link" data-nav href="visualizer.html">Visualizer</a>
         </nav>
-
         <div class="nav-actions">
           <div id="sessionSlot"></div>
           <a class="btn primary" href="contact.html">Request a Quote</a>
@@ -197,7 +175,6 @@
       </div>
     </div>
   </header>
-
   <main id="main">
     <section class="section">
       <div class="container grid">
@@ -206,7 +183,6 @@
           <h1>About Al-Wadaq</h1>
           <p class="small">A manufacturing company specialized in wallpaper production with consistent quality and modern designs.</p>
           <div class="hr"></div>
-
           <div class="grid" style="grid-template-columns:repeat(3,minmax(0,1fr));">
             <div class="card soft">
               <strong>Mission</strong>
@@ -222,7 +198,6 @@
             </div>
           </div>
         </div>
-
         <div class="card">
           <h2 style="margin-top:0;">Capabilities</h2>
           <ul style="color:var(--muted); margin:10px 0 0; padding-inline-start:18px;">
@@ -235,7 +210,6 @@
       </div>
     </section>
   </main>
-
   <footer class="footer">
     <div class="container">
       <div class="row">
@@ -246,7 +220,6 @@
           </div>
           <div class="small">Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq</div>
         </div>
-
         <div class="small">
           <div>Phone: 9647811100000</div>
           <div>Email: info@alwadaq-wallpaper.com</div>
@@ -255,7 +228,6 @@
       </div>
     </div>
   </footer>
-
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script type="module" src="assets/js/main.js"></script>
 </body>
@@ -271,7 +243,6 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
   <header class="nav">
     <div class="container">
       <div class="navbar">
@@ -279,9 +250,7 @@
           <img src="assets/img/logo.svg" alt="Al-Wadaq logo" />
           <span class="brand-text"><strong>Al-Wadaq</strong><span>Babel, Iraq</span></span>
         </a>
-
         <button id="menuBtn" class="btn menu-btn" type="button">Menu</button>
-
         <nav id="navLinks" class="links" aria-label="Navigation">
           <a class="link" data-nav href="index.html">Home</a>
           <a class="link" data-nav href="about.html">About</a>
@@ -298,7 +267,6 @@
       </div>
     </div>
   </header>
-
   <main id="main">
     <section class="section">
       <div class="container grid two" style="align-items:start;">
@@ -312,15 +280,12 @@
             <label>Full name
               <input name="name" required />
             </label>
-
             <label>Email
               <input name="email" type="email" required />
             </label>
-
             <label>Phone
               <input name="phone" />
             </label>
-
             <label>Message
               <textarea name="message" required></textarea>
             </label>
@@ -328,7 +293,6 @@
             <button class="btn primary" type="submit">Send Message</button>
           </form>
         </div>
-
         <div class="card">
           <h2 style="margin-top:0;">Request a Quote</h2>
           <form id="quoteForm">
@@ -339,18 +303,14 @@
                 <option>Hospitality</option>
               </select>
             </label>
-
             <label>Area (m²)
               <input name="area" type="number" min="1" />
             </label>
-
             <label>Preferred style
               <input name="style" placeholder="Modern / Classic / Textured" />
             </label>
-
             <button class="btn primary" type="submit">Submit Request</button>
           </form>
-
           <div class="hr"></div>
           <div class="notice">
             <div><strong>Phone</strong>: 9647811100000</div>
@@ -361,7 +321,6 @@
       </div>
     </section>
   </main>
-
   <footer class="footer">
     <div class="container">
       <div class="row">
@@ -372,7 +331,6 @@
           </div>
           <div class="small">Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq</div>
         </div>
-
         <div class="small">
           <div>Phone: 9647811100000</div>
           <div>Email: info@alwadaq-wallpaper.com</div>
@@ -381,7 +339,6 @@
       </div>
     </div>
   </footer>
-
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script type="module" src="assets/js/main.js"></script>
 </body>
