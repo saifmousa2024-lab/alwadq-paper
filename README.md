@@ -1,8 +1,3 @@
-<!doctype html>
-<html lang="en" dir="ltr">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Al-Wadaq Wallpaper Manufacturing Co. Ltd</title>
   <meta name="description" content="Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq. Wallpaper manufacturing for residential and commercial projects." />
   <link rel="stylesheet" href="assets/css/style.css" />
