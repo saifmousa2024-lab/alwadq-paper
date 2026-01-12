@@ -1,15 +1,8 @@
-<!doctype html>
-<html lang="en" dir="ltr">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Al-Wadaq | Home</title>
-  <meta name="description" content="Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq." />
+ <meta name="description" content="Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
   <header class="nav">
     <div class="container navbar">
       <a class="brand" href="index.html" aria-label="Al-Wadaq">
@@ -33,7 +26,6 @@
       </div>
     </div>
   </header>
-
   <main id="main">
     <section class="section">
       <div class="container hero">
@@ -44,14 +36,11 @@
             We manufacture high-quality wallpapers with multiple materials and finishes for residential
             and commercial projects.
           </p>
-
           <div class="actions">
             <a class="btn primary" href="about.html">Learn More</a>
             <a class="btn" href="contact.html">Contact Us</a>
           </div>
-
           <div class="hr"></div>
-
           <div class="kpis">
             <div class="kpi"><strong>Multiple designs</strong><span>Collections & patterns</span></div>
             <div class="kpi"><strong>Materials</strong><span>Vinyl & non-woven</span></div>
