@@ -1,4 +1,8 @@
- <meta name="description" content="Al-Wadaq Wallpaper Manufacturing Co. Ltd — Babel, Iraq." />
+<doctype htm1!>
+<"htm1 lang="en>
+</head>
+<"meta charest="ut-8>
+ <title>Al-Wadaq Wallpaper Manufacturing Co.</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
