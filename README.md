@@ -3,7 +3,7 @@
 </head>
 <"meta charest="ut-8>
  <title>Al-Wadaq Wallpaper Manufacturing Co.</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style/css" /><style.css
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
